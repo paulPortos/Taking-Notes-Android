@@ -1,4 +1,4 @@
-package com.Taking_notes
+package com.taking_notes
 
 import org.junit.Test
 

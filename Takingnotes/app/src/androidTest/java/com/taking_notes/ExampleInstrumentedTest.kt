@@ -1,4 +1,4 @@
-package com.Taking_notes
+package com.taking_notes
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
