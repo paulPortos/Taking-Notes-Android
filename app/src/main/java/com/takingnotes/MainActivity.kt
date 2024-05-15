@@ -17,4 +17,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
     }
+    fun sda(){
+        //dsdasda
+    }
 }
