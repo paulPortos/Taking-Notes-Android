@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96481055918",
+    "project_id": "taking-notes-64a11",
+    "storage_bucket": "taking-notes-64a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96481055918:android:1fdb3396bec7ef3d93093f",
+        "android_client_info": {
+          "package_name": "com.takingnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGlF-mx3Co6sBBQRvHcREELyz6ryHJnM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

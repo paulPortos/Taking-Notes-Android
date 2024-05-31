@@ -3,4 +3,9 @@
     <string name="password">Password</string>
     <string name="email">Email</string>
     <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="fb_logo">fb-logo</string>
+    <string name="enter">Enter</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="click_to_login">Click to login</string>
 </resources>
