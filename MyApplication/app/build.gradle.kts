@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.takingnotes"
+    namespace = "com.example.myapplication"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.takingnotes"
+        applicationId = "com.example.myapplication"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
@@ -36,6 +36,7 @@ android {
 }
 
 dependencies {
+
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)

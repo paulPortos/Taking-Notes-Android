@@ -1,4 +1,4 @@
-package com.takingnotes
+package com.myapplication
 
 import android.annotation.SuppressLint
 import android.content.Intent
