@@ -8,4 +8,5 @@
     <string name="enter">Enter</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="click_to_login">Click to login</string>
+    <string name="create_an_account">Create an account</string>
 </resources>

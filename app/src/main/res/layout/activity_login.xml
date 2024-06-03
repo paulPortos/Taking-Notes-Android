@@ -74,41 +74,16 @@
         app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword"
         app:layout_constraintVertical_bias="0.024" />
 
-    <ImageButton
-        android:id="@+id/imageButton"
-        android:layout_width="68dp"
-        android:layout_height="67dp"
-        android:layout_marginTop="208dp"
-        android:contentDescription="@string/fb_logo"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.33"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword"
-        app:layout_constraintVertical_bias="0.016"
-        app:srcCompat="@drawable/icons8_facebook_48"
-        tools:ignore="ImageContrastCheck" />
-
-    <ImageButton
-        android:id="@+id/imageButton4"
-        android:layout_width="60dp"
-        android:layout_height="65dp"
-        android:layout_marginTop="210dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.409"
-        app:layout_constraintStart_toEndOf="@+id/imageButton"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/icons8_google_plus_48"
-        tools:ignore="ImageContrastCheck" />
-
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/registerText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Create an account"
-        tools:layout_editor_absoluteX="148dp"
-        tools:layout_editor_absoluteY="524dp" />
+        android:layout_marginTop="30dp"
+        android:text="@string/create_an_account"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button"
+        app:layout_constraintVertical_bias="0.095" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
